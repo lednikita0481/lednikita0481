@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone! [Here](https://github.com/lednikita0481/lednikita0481/blob/main/CV%20Nikita%20Fedorov.pdf) you can find my CV
 
 <!--
 **lednikita0481/lednikita0481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
